@@ -2,9 +2,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 color: rgb(6, 2, 7);
-padding: 50px;
-margin-top: 50px;
-border: 2px solid black;
+padding: 70px;
+margin-top: 80px;
+border: 3px solid black;
+margin-left: 25px;
+margin-right: 25px;
+margin-bottom: 25px;
 }
 
 #kohli
